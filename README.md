@@ -1,5 +1,7 @@
 # Intel Retrieval Augmented Generation (RAG) Utilities
 
+An open-source initiave to document and share experiments to apply Retrieval Augmented Generation (RAG) techniques to Threat Intelligence.
+
 ## Build Docker Image
 
 ```
